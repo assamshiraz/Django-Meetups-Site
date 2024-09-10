@@ -2,6 +2,6 @@
 
 The Django Meetups Website is a website made for those who wish to streamline booking in-person meetups. 
 
-This is based on an academind beginner Django course project that I completed to develop my skills in software developement. 
+I applied languages such as CSS, HTML and Python to develop this site. 
 
-Since this is a project taken on based on an external course, I do not claim ownership of the original idea, nor the code made in this project. 
+However, this site is based on an [academind beginner Django course project]([url](https://youtu.be/t7DrJqcUviA)) that I completed to develop my skills in software developement; hence, the idea is not originally mine, but this is still my work. 
